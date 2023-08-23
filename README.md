@@ -7,3 +7,15 @@ It has some basic frameworks and foundations that let you easily expand, but als
 
 In this app, I am using just simple principles of software design, to serve as an example of a minimal Microservice.
 It offers caching for the external API (to avoid multiple calls, saving costs)
+
+## Libraries Used
+
+``` text
+<PackageReference Include="Magma" Version="1.0.3" />
+<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+<PackageReference Include="FluentValidation" Version="11.5.2" />
+
+<PackageReference Include="NSubstitute" Version="5.0.0" />
+<PackageReference Include="NUnit" Version="3.13.3" />
+
+```
