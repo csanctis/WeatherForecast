@@ -19,3 +19,6 @@ It offers caching for the external API (to avoid multiple calls, saving costs)
 <PackageReference Include="NUnit" Version="3.13.3" />
 
 ```
+
+[Nsubstitute](https://nsubstitute.github.io/help/getting-started/)
+[FluentValidation](https://docs.fluentvalidation.net/en/latest/)
